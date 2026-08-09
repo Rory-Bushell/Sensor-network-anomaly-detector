@@ -13,12 +13,11 @@ fence-climb registers as sudden vibration; a cabinet intrusion registers
 as a temperature jump). But sometimes the more realistic signature is
 absence - a competent intruder is more likely to disable or bypass a
 motion sensor than walk straight through it. A detection system that only
-looks for spikes misses that second case entirely.
+looks for spikes will miss this entirely.
 
 This project builds a small sensor network with both failure modes
 represented, detects both, and - critically - measures how well the
-detection actually performs, rather than relying on a plot looking
-convincing.
+detection actually performs.
 
 ## Sensors simulated
 
