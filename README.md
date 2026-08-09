@@ -11,7 +11,7 @@ A physical intrusion or tampering event at a monitored site doesn't
 always look like an obvious spike on a sensor. Sometimes it does (a
 fence-climb registers as sudden vibration; a cabinet intrusion registers
 as a temperature jump). But sometimes the more realistic signature is
-**absence** - a competent intruder is more likely to disable or bypass a
+absence - a competent intruder is more likely to disable or bypass a
 motion sensor than walk straight through it. A detection system that only
 looks for spikes misses that second case entirely.
 
