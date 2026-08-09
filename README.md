@@ -2,7 +2,7 @@
 
 A simulated perimeter security sensor network (fence vibration, approach
 motion, cabinet temperature) with a statistical anomaly detector, an
-ML-based alternative, and a proper quantitative evaluation of both against
+ML-based alternative, and a quantitative evaluation of both against
 known ground truth.
 
 ## The problem
