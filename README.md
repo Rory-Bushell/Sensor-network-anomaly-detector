@@ -29,7 +29,7 @@ detection actually performs.
 
 Each sensor produces 500 minutes of synthetic data with realistic
 baseline noise (Gaussian for vibration/temperature, Poisson for the
-discrete motion counts), with one anomaly deliberately injected at a
+discrete motion counts), with multipme anomalies deliberately injected at a
 known point. The exact injection points are recorded by the simulator
 and used as ground truth for evaluation - not just eyeballed on a chart
 afterward.
